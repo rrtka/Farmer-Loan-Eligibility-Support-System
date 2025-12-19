@@ -1,9 +1,14 @@
-Farmer Loan Eligibility Predictor
+Farmer Loan Eligibility Support System
 
-• Binary classification ML model
 
-• Tech: Python, scikit-learn
+• Built a machine learning model to predict farmer loan eligibility
 
-• Features: data preprocessing, model training
+• Trained Logistic Regression, Decision Tree, and Random Forest models
 
-• Outcome: predicts loan eligibility
+• Evaluated models using accuracy and classification report
+
+• Developed a Streamlit web app for real-time predictions
+
+
+Tech Stack:
+Python, pandas, scikit-learn, Streamlit, matplotlib
